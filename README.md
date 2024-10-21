@@ -33,7 +33,7 @@ This project demonstrates the importance of a methodical approach in data analys
 ## How to Run the Notebook:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/rthtrm/RTD_vehicle_selling_price_factor_analysis.git]
+   git clone https://github.com/rthtrm/RTD_vehicle_selling_price_factor_analysis.git
 
 2. Install the required libraries:
    ```bash
