@@ -37,10 +37,3 @@ This project demonstrates the importance of a methodical approach in data analys
 2. Install the required library:
   ```bash
   pip install -r requirements.txt     
-
-3.	Open Jupyter Notebook:
-  ```bash
-  jupyter notebook
-
-## Contact 
-For any questions or feedback, feel free to reach out via LinkedIn.
