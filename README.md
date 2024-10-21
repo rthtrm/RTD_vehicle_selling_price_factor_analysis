@@ -30,10 +30,18 @@ This project demonstrates the importance of a methodical approach in data analys
 
 ## How to Run the Notebook:
 
+## How to Run the Notebook:
 1. Clone the repository:
    ```bash
    git clone https://github.com/[your-repo-url]
-   
-2. Install the required library:
-  ```bash
+
+2. Install the required libraries:
+   ```bash
    pip install -r requirements.txt
+
+3. Open Jupyter Notebook:
+   ```bash
+   jupyter notebook
+
+## Contact
+For questions or feedback, feel free to reach out via LinkedIn.
